@@ -18,13 +18,12 @@ app.get("/", (req, res) => {
 });
 
 app.post("/api/back", (req, res) => {
-  const { transactions, debts } = req.body;
-  if (existsSync(transactionsStore)) {
-    writeFileSync(transactionsStore, JSON.stringify(transactions, null, 2));
-  }
-  if (existsSync(debtsStore)) {
-    writeFileSync(debtsStore, JSON.stringify(debts, null, 2));
-  }
+  writeFileSync(
+    transactionsStore,
+    JSON.stringify(req.body.transactions, null, 2)
+  );
+  writeFileSync(debtsStore, JSON.stringify(req.body.debts, null, 2));
+  res.status(200).json({ message: "Data saved" });
 });
 
 app.get("/api/transactions", (req, res) => {
