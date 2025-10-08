@@ -28,11 +28,11 @@ app.post("/api/back", (req, res) => {
 });
 
 app.get("/api/transactions", (req, res) => {
-  let transactions = require("./store/transactions.json");
+  let transactions = JSON.parse(readFileSync(transactionsStore));
   res.status(200).json(transactions);
 });
 app.get("/api/debts", (req, res) => {
-  let debts = require("./store/debts.json");
+  let debts = JSON.parse(readFileSync(debtsStore));
   res.status(200).json(debts);
 });
 
