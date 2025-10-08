@@ -1,0 +1,534 @@
+[
+  {
+    "transactionId": 1759668122117,
+    "debtorName": "hh hh",
+    "debtorNumber": "null",
+    "amountBilled": 1000,
+    "amountOwed": 600,
+    "type": "income",
+    "date": "2025-10-05T12:42:02.117Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 400,
+        "method": "MP-0745****15",
+        "balance": 600,
+        "date": "2025-10-05T12:42:02.117Z"
+      }
+    ]
+  },
+  {
+    "transactionId": 1759663920601,
+    "debtorName": "Karanja Wao",
+    "debtorNumber": "0764695467",
+    "amountBilled": 1050,
+    "amountOwed": 400,
+    "type": "income",
+    "date": "2025-10-05T11:32:00.601Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 500,
+        "method": "cash",
+        "balance": 550,
+        "date": "2025-10-05T11:32:00.601Z"
+      },
+      {
+        "deposit": 150,
+        "balance": 400,
+        "method": "MP-0745****15",
+        "date": 1759663999222
+      }
+    ]
+  },
+  {
+    "transactionId": 1759663017909,
+    "debtorName": "Hilary Mwenda",
+    "debtorNumber": "0756825789",
+    "amountBilled": 647,
+    "amountOwed": 300,
+    "type": "income",
+    "date": "2025-10-05T11:16:57.910Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 260,
+        "method": "PB-247247-Acc-0745****15",
+        "balance": 387,
+        "date": "2025-10-05T11:16:57.910Z"
+      },
+      {
+        "deposit": 27,
+        "balance": 360,
+        "method": "MP-0745****15",
+        "date": 1759663079701
+      },
+      {
+        "deposit": 20,
+        "balance": 340,
+        "method": "MP-0745****15",
+        "date": 1759663623978
+      },
+      {
+        "deposit": 40,
+        "balance": 300,
+        "method": "MP-0745****15",
+        "date": 1759663673899
+      }
+    ]
+  },
+  {
+    "transactionId": 1759659886631,
+    "debtorName": "Kangi kaguruki",
+    "debtorNumber": "08769796344",
+    "amountBilled": 30,
+    "amountOwed": 3,
+    "type": "income",
+    "date": "2025-10-05T10:24:46.631Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 10,
+        "method": "cash",
+        "balance": 20,
+        "date": "2025-10-05T10:24:46.631Z"
+      },
+      {
+        "deposit": 15,
+        "balance": 5,
+        "method": "MP-0745****15",
+        "date": 1759659939883
+      },
+      {
+        "deposit": 2,
+        "balance": 3,
+        "method": "MP-0745****15",
+        "date": 1759662719108
+      }
+    ]
+  },
+  {
+    "transactionId": 1759659699323,
+    "debtorName": "Gakii wa Mwendwa",
+    "debtorNumber": "0723676089",
+    "amountBilled": 350,
+    "amountOwed": 25,
+    "type": "income",
+    "date": "2025-10-05T10:21:39.323Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 280,
+        "method": "cash",
+        "balance": 70,
+        "date": "2025-10-05T10:21:39.323Z"
+      },
+      {
+        "deposit": 280,
+        "method": "cash",
+        "balance": 70,
+        "date": "2025-10-05T10:21:39.323Z"
+      },
+      {
+        "deposit": 20,
+        "balance": 50,
+        "method": "MP-0745****15",
+        "date": 1759661751137
+      },
+      {
+        "deposit": 10,
+        "balance": 40,
+        "method": "MP-0745****15",
+        "date": 1759662218531
+      },
+      {
+        "deposit": 5,
+        "balance": 35,
+        "method": "MP-0745****15",
+        "date": 1759662340314
+      },
+      {
+        "deposit": 10,
+        "balance": 25,
+        "method": "MP-0745****15",
+        "date": 1759662661089
+      }
+    ]
+  },
+  {
+    "transactionId": 1759432347488,
+    "debtorName": "gt kimiko",
+    "debtorNumber": "0987654321",
+    "amountBilled": 6666,
+    "amountOwed": 0,
+    "type": "income",
+    "date": "2025-10-02T19:12:27.489Z",
+    "status": "cleared",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 565,
+        "method": "",
+        "balance": 6101,
+        "date": "2025-10-02T19:12:27.489Z"
+      },
+      {
+        "deposit": 4000,
+        "balance": 2101,
+        "method": "MP-0745****15",
+        "date": 1759432468508
+      },
+      {
+        "deposit": 401,
+        "balance": 1700,
+        "method": "cash",
+        "date": 1759561620640
+      },
+      {
+        "deposit": 401,
+        "balance": 1700,
+        "method": "cash",
+        "date": 1759561749467
+      },
+      {
+        "deposit": 401,
+        "balance": 1700,
+        "method": "cash",
+        "date": 1759562019980
+      },
+      {
+        "deposit": 401,
+        "balance": 1700,
+        "method": "cash",
+        "date": 1759563364664
+      },
+      {
+        "deposit": 301,
+        "balance": 1800,
+        "method": "cash",
+        "date": 1759563725068
+      },
+      {
+        "deposit": 401,
+        "balance": 1700,
+        "method": "cash",
+        "date": 1759563991206
+      },
+      {
+        "deposit": 100,
+        "balance": 1600,
+        "method": "cash",
+        "date": 1759564645204
+      },
+      {
+        "deposit": 320,
+        "balance": 1280,
+        "method": "MP-0745****15",
+        "date": 1759569578971
+      },
+      {
+        "deposit": 240,
+        "balance": 1040,
+        "method": "MP-0745****15",
+        "date": 1759657465265
+      },
+      {
+        "deposit": 1040,
+        "balance": 0,
+        "method": "PB-247247-Acc-0745****15",
+        "date": 1759667564786
+      }
+    ]
+  },
+  {
+    "transactionId": 1759432148104,
+    "debtorName": "uuuuu uuu",
+    "debtorNumber": "0767890987",
+    "amountBilled": 1222,
+    "amountOwed": 160,
+    "type": "income",
+    "date": "2025-10-02T19:09:08.104Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 0,
+        "method": "",
+        "balance": 756,
+        "date": "2025-10-02T19:09:08.104Z"
+      },
+      {
+        "deposit": 56,
+        "balance": 700,
+        "method": "PB-247247-Acc-0745****15",
+        "date": 1759432211887
+      },
+      {
+        "deposit": 200,
+        "balance": 500,
+        "method": "cash",
+        "date": 1759564177290
+      },
+      {
+        "deposit": 200,
+        "balance": 300,
+        "method": "cash",
+        "date": 1759564376475
+      },
+      {
+        "deposit": 100,
+        "balance": 200,
+        "method": "cash",
+        "date": 1759564675438
+      },
+      {
+        "deposit": 40,
+        "balance": 160,
+        "method": "MP-0745****15",
+        "date": 1759569920743
+      }
+    ]
+  },
+  {
+    "transactionId": 1759429469055,
+    "debtorName": "hi hghty",
+    "debtorNumber": "5432123456",
+    "amountBilled": 4556,
+    "amountOwed": 3254,
+    "type": "income",
+    "date": "2025-10-02T18:24:29.055Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 0,
+        "method": "",
+        "balance": 4100,
+        "date": "2025-10-02T18:24:29.055Z"
+      },
+      {
+        "deposit": 500,
+        "balance": 3600,
+        "method": "",
+        "date": "2025-10-02-21-37-14"
+      },
+      {
+        "deposit": 300,
+        "balance": 3300,
+        "method": "",
+        "date": "2025-10-02-21-38-18"
+      },
+      {
+        "deposit": 46,
+        "balance": 3254,
+        "method": "",
+        "date": 1759430613338
+      }
+    ]
+  },
+  {
+    "transactionId": 1759424419900,
+    "debtorName": "Charismajik",
+    "debtorNumber": "07567905323",
+    "amountBilled": 230,
+    "amountOwed": 50,
+    "type": "income",
+    "date": "2025-10-02T17:00:19.900Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759394502255,
+    "debtorName": "Kamau wa Mukawa",
+    "debtorNumber": "0789765456",
+    "amountBilled": 40,
+    "amountOwed": 0,
+    "type": "expense",
+    "date": "2025-10-02T08:41:42.255Z",
+    "status": "cleared",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 5,
+        "balance": 10,
+        "method": "",
+        "date": 1759431062260
+      },
+      {
+        "deposit": 10,
+        "balance": 0,
+        "method": "cash",
+        "date": 1759477951046
+      }
+    ]
+  },
+  {
+    "transactionId": 1759324651972,
+    "debtorName": "terfd",
+    "debtorNumber": "5232467889",
+    "amountBilled": 345,
+    "amountOwed": 100,
+    "type": "income",
+    "date": "2025-10-01T13:17:31.973Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759319599779,
+    "debtorName": "Hui Travels",
+    "debtorNumber": "0756789365",
+    "amountBilled": 300,
+    "amountOwed": 15,
+    "type": "expense",
+    "date": "2025-10-01T11:53:19.780Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": [
+      {
+        "deposit": 200,
+        "balance": 100,
+        "method": "",
+        "date": 1759431097947
+      },
+      {
+        "deposit": 70,
+        "balance": 30,
+        "method": "",
+        "date": 1759431699134
+      },
+      {
+        "deposit": 15,
+        "balance": 15,
+        "method": "PB-247247-Acc-0745****15",
+        "date": 1759431744855
+      }
+    ]
+  },
+  {
+    "transactionId": 1759317949921,
+    "debtorName": "Juthu",
+    "debtorNumber": "0769098765",
+    "amountBilled": 390,
+    "amountOwed": 380,
+    "type": "expense",
+    "date": "2025-10-01T11:25:49.922Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759313379293,
+    "debtorName": "dscdfvfv",
+    "debtorNumber": "4324556577",
+    "amountBilled": 0,
+    "amountOwed": 4,
+    "type": "income",
+    "date": "2025-10-01T10:09:39.183Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759309081847,
+    "debtorName": "4",
+    "debtorNumber": "3",
+    "amountBilled": 0,
+    "amountOwed": 15,
+    "type": "expense",
+    "date": "2025-10-01T08:58:01.848Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 2,
+    "debtorName": "me",
+    "debtorNumber": "-",
+    "amountBilled": 0,
+    "amountOwed": 12.5,
+    "type": "income",
+    "date": "2025-09-29T23:36:42.462Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 2,
+    "debtorName": "me",
+    "debtorNumber": "-",
+    "amountBilled": 0,
+    "amountOwed": 0,
+    "type": "income",
+    "date": "2025-09-29T23:36:42.462Z",
+    "status": "cleared",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759194719922,
+    "debtorName": "jimi",
+    "debtorNumber": "null",
+    "amountBilled": 0,
+    "amountOwed": 45044,
+    "type": "undefined",
+    "date": "2025-09-30T01:11:59.922Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759193664277,
+    "debtorName": "kimani",
+    "debtorNumber": "null",
+    "amountBilled": 0,
+    "amountOwed": 3986,
+    "type": "undefined",
+    "date": "2025-09-30T00:54:24.277Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759193414803,
+    "debtorName": "kingori",
+    "debtorNumber": "-",
+    "amountBilled": 0,
+    "amountOwed": 115,
+    "type": "income",
+    "date": "2025-09-30T00:50:14.803Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759189002462,
+    "debtorName": "me",
+    "debtorNumber": "null",
+    "amountBilled": 0,
+    "amountOwed": 22.5,
+    "type": "undefined",
+    "date": "2025-09-29T23:36:42.462Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  },
+  {
+    "transactionId": 1759185411833,
+    "debtorName": "Kamau kana",
+    "debtorNumber": "0756554692",
+    "amountBilled": 0,
+    "amountOwed": 50,
+    "type": "undefined",
+    "date": "2025-09-29T22:36:51.833Z",
+    "status": "pending",
+    "clearedAt": "Not cleared",
+    "history": []
+  }
+]
