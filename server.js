@@ -18,6 +18,7 @@ app.get("/", (req, res) => {
 });
 
 app.post("/api/back", (req, res) => {
+  console.log("req.body :>> ", req.body);
   writeFileSync(
     transactionsStore,
     JSON.stringify(req.body.transactions, null, 2)
