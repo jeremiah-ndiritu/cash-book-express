@@ -22,13 +22,13 @@ async function getData() {
 
   return { debts, transactions };
 }
-let getTransactions = async () => {
+async function getTransactions() {
   let res = await fetch(`${backendURL}/api/transactions`);
   let transactions = await res.json();
   return transactions || [];
-};
-let getDebts = async () => {
+}
+async function getDebts() {
   let res = await fetch(`${backendURL}/api/debts`);
   let debts = await res.json();
   return debts || [];
-};
+}
